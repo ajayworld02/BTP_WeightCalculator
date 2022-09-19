@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:bmi_calculator/calculator_screen.dart';
 
 class ResultScreen extends StatelessWidget {
   final double height;
